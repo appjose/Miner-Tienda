@@ -17,6 +17,27 @@ Repositorio de actualizaciones de la plataforma Miner Tienda.
 - Ranking social de máquinas ASIC para votaciones y visualización de estadística
 - Presentación en ForoCoin, DeFi Lab, Linked In, Instagram
 
+URLs Oficiales:
+
+https://miner.tienda
+https://github.com/appjose/Miner-Tienda
+
+https://www.linkedin.com/company/miner-tienda
+
 
 ### Versión Beta 2
 
+- Programación de stocks dinámicos
+- Ajustes de estilo y visualización en dispositivos móviles
+- Sincronizar stocks dinámicos directamente con la base de datos del proveedor 
+- Realización de artículos de información, estudios sobre eficiencia, energía y blockchain
+
+### Pendiente:
+- Preparación para integrar precios dinámicos - actualizados cada 4h por el proveedor
+- Ajuste de visualización del menu desplegable en móvil
+- Añadir meta descripciones SEO de nuevos productos,entradas y páginas
+- Crear Dosier Miner Tienda 
+- Plataforma de intercambio de hardware P2P supervisado - se aceptan solicitudes de acceso
+- ...
+
+Puedes crear un commit para proponer mejoras a la plataforma.
