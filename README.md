@@ -20,10 +20,15 @@ Repositorio de actualizaciones de la plataforma Miner Tienda.
 URLs Oficiales:
 
 https://miner.tienda
+
 https://t.me/minertienda
+
 https://github.com/appjose/Miner-Tienda
+
 https://forocoin.net/threads/presentacion-miner-tienda.6993/
+
 https://www.instagram.com/miner.tienda
+
 https://www.linkedin.com/company/miner-tienda
 
 
