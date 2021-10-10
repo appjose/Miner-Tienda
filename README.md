@@ -1,6 +1,7 @@
 # Miner-Tienda
 Repositorio de actualizaciones de la plataforma Miner Tienda. 
 
+![miner tienda](https://minertienda.b-cdn.net/wp-content/uploads/2021/08/miner-tienda-logo-2.gif)
 ## Descripción
 
 La plataforma Miner Tienda pretende servir de lugar de reunión para examinar datos sobre rentabilidad e inteligencia sobre las tecnologías actuales de minado de criptomonedas basado en hardware específico como pueden ser protocolos Proof of Work, Proof of Coverage y nodos.
