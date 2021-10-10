@@ -17,7 +17,7 @@ Repositorio de actualizaciones de la plataforma Miner Tienda.
 - Ranking social de máquinas ASIC para votaciones y visualización de estadística
 - Presentación en ForoCoin, DeFi Lab, Linked In, Instagram
 
-####URLs Oficiales:
+###URLs Oficiales:
 
 https://miner.tienda
 
