@@ -40,4 +40,4 @@ https://www.linkedin.com/company/miner-tienda
 - Plataforma de intercambio de hardware P2P supervisado - se aceptan solicitudes de acceso
 - ...
 
-Puedes crear un commit para proponer mejoras a la plataforma.
+Puedes crear pull request para incluir mejoras a la plataforma
