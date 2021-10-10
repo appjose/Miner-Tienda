@@ -9,6 +9,9 @@ La plataforma Miner Tienda pretende servir de lugar de reunión para examinar da
 Intentamos aumentar el alcance y la disponibilidad de estas tecnologías a todo el público para que la descentralización sea cada vez mayor.
 Se realizan talleres y comunicados de manera frecuente para informar a la comunidad de las novedades en el sector y dentro de la plataforma.
 
+## Últimos talleres realizados:
+https://www.youtube.com/watch?v=YuLDYT_tMhg
+
 ## Últimos cambios:
 
  ### Versión Beta 1
