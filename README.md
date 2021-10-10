@@ -15,7 +15,7 @@ Repositorio de actualizaciones de la plataforma Miner Tienda.
 - Meta-etiquetas SEO
 - Programación de rentabilidad por máquina ASIC
 - Ranking social de máquinas ASIC para votaciones y visualización de estadística
-- Presentación en ForoCoin y DeFi Lab
+- Presentación en ForoCoin, DeFi Lab, Linked In, Instagram
 
 
 ### Versión Beta 2
