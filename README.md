@@ -9,10 +9,25 @@ La plataforma [Miner Tienda](https://miner.tienda "Miner Tienda")
 
 Intentamos aumentar el alcance y la disponibilidad de estas tecnologías a todo el público para que la descentralización sea cada vez mayor.
 
-Se realizan talleres y comunicados de manera frecuente para informar a la comunidad de las novedades en el sector, dentro y fuera de la plataforma.
+Se realizan talleres y comunicados de manera frecuente para informar a la comunidad de las novedades en el sector dentro y fuera de la plataforma.
 
 ## Últimos talleres realizados:
 https://www.youtube.com/watch?v=YuLDYT_tMhg
+
+#### URLs Oficiales:
+
+https://miner.tienda
+
+https://t.me/minertienda
+
+https://github.com/appjose/Miner-Tienda
+
+https://forocoin.net/threads/presentacion-miner-tienda.6993/
+
+https://www.instagram.com/miner.tienda
+
+https://www.linkedin.com/company/miner-tienda
+
 
 ## Últimos cambios:
 
@@ -28,20 +43,6 @@ https://www.youtube.com/watch?v=YuLDYT_tMhg
 - Programación de rentabilidad por máquina ASIC
 - Ranking social de máquinas ASIC para votaciones y visualización de estadística
 - Presentación en ForoCoin, DeFi Lab, Linked In, Instagram
-
-#### URLs Oficiales:
-
-https://miner.tienda
-
-https://t.me/minertienda
-
-https://github.com/appjose/Miner-Tienda
-
-https://forocoin.net/threads/presentacion-miner-tienda.6993/
-
-https://www.instagram.com/miner.tienda
-
-https://www.linkedin.com/company/miner-tienda
 
 
 ### Versión Beta 2
