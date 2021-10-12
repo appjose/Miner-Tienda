@@ -18,7 +18,8 @@ https://www.youtube.com/watch?v=YuLDYT_tMhg
 
 https://miner.tienda
 
-https://t.me/minertienda
+https://t.me/minertienda (Mensajería Privada)
+https://t.me/g_minertienda (Grupo Público)
 
 https://github.com/appjose/Miner-Tienda
 
