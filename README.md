@@ -55,9 +55,14 @@ https://www.linkedin.com/company/miner-tienda
 - Sincronizar stocks dinámicos directamente con la base de datos del proveedor 
 - Realización de artículos de información, estudios sobre eficiencia, energía y blockchain
 
-### Pendiente:
+
+### En progreso
+
 - Preparación para integrar precios dinámicos - actualizados cada 4h por el proveedor
 - Ajuste de visualización del menu desplegable en móvil
+
+### Pendiente:
+
 - Añadir meta descripciones SEO de nuevos productos,entradas y páginas
 - Crear Dosier Miner Tienda 
 - Plataforma de intercambio de hardware P2P supervisado - se aceptan solicitudes de acceso
