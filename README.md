@@ -55,15 +55,20 @@ https://www.linkedin.com/company/miner-tienda
 - Sincronizar stocks dinámicos directamente con la base de datos del proveedor 
 - Realización de artículos de información, estudios sobre eficiencia, energía y blockchain
 
+### Versión Beta 3
+
+- Integración de precios dinámicos válidos por 24H
+- Re-diseño de la interfaz de Filtros
+- Añadir filtros por Algorítmo de minado
+- Ajuste de visualización del menu desplegable en móvil
+
 
 ### En progreso
 
-- Preparación para integrar precios dinámicos - actualizados cada 4h por el proveedor
-- Ajuste de visualización del menu desplegable en móvil
+- Preparación para integrar precios dinámicos - actualizados cada 6h por el proveedor
 
 ### Pendiente:
 
-- Añadir meta descripciones SEO de nuevos productos,entradas y páginas
 - Crear Dosier Miner Tienda 
 - Plataforma de intercambio de hardware P2P supervisado - se aceptan solicitudes de acceso
 - ...
