@@ -65,7 +65,7 @@ https://www.linkedin.com/company/miner-tienda
 - Ajuste de visualización del menu desplegable en móvil
 
 
-### En progreso
+### En pruebas
 
 - Preparación para integrar precios dinámicos - actualizados cada 6h por el proveedor
 
