@@ -20,6 +20,8 @@ https://miner.tienda
 
 https://t.me/minertienda - Mensajería Privada
 
+https://t.me/miner_tienda - Canal de Noticias
+
 https://t.me/g_minertienda - Grupo Público
 
 https://github.com/appjose/Miner-Tienda
