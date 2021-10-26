@@ -67,7 +67,7 @@ https://www.linkedin.com/company/miner-tienda
 
 # Versión beta 4
 
-- Actualizar URL's Canónicas para mejorar el SEO
+- Actualizar URL's Canónicas para mejorar el SEO https://miner.tienda/cat-prod y https://miner.tienda/prod
 - Actualizar artículos de Información para enlazar con sus máquinas catalogadas https://miner.tienda/autor/miner/
 
 ### En pruebas
