@@ -65,6 +65,10 @@ https://www.linkedin.com/company/miner-tienda
 - Ajuste de visualización del menu desplegable en móvil
 - Canal de Telegram para actualizaciones de precios y stocks https://t.me/miner_tienda
 
+# Versión beta 4
+
+- Actualizar URL's Canónicas para mejorar el SEO
+- Actualizar artículos de Información para enlazar con sus máquinas catalogadas https://miner.tienda/autor/miner/
 
 ### En pruebas
 - Mercado P2P Supervisado
