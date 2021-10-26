@@ -63,11 +63,12 @@ https://www.linkedin.com/company/miner-tienda
 - Re-diseño de la interfaz de Filtros
 - Añadir filtros por Algorítmo de minado
 - Ajuste de visualización del menu desplegable en móvil
+- Canal de Telegram para actualizaciones de precios y stocks https://t.me/miner_tienda
 
 
 ### En pruebas
+- Mercado P2P Supervisado
 
-- Preparación para integrar precios dinámicos - actualizados cada 6h por el proveedor
 
 ### Pendiente:
 
