@@ -73,6 +73,9 @@ https://www.linkedin.com/company/miner-tienda
 ### En pruebas
 - Mercado P2P Supervisado
 
+### Participantes Promoción En Redes (desde el 27-10-2021 hasta el 1-11-2021)
+
+- Tu publicación aquí
 
 ### Pendiente:
 
