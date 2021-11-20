@@ -76,6 +76,7 @@ https://www.linkedin.com/company/miner-tienda
 ### Nuevas Integraciones
 
 - Chat en vivo para visitantes de la Web
+- Dirección ENS minertienda.eth
 
 ### Pendiente:
 
