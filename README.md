@@ -70,6 +70,14 @@ https://www.linkedin.com/company/miner-tienda
 
 - Actualizar URL's Canónicas para mejorar el SEO https://miner.tienda/cat-prod y https://miner.tienda/prod
 - Actualizar artículos de Información para enlazar con sus máquinas catalogadas https://miner.tienda/autor/miner/
+- Mejorar la actualización de precios dinámica y visualización de estilo de este apartado
+
+### Versión beta 5
+
+- Mejorar entrega de datos de rentabilidad basado en principales plataformas de exploradores de bloques / rentabilidad de algoritmos de minado
+- Añadidas función de reseñas Trust Pilot, el cliente final ahora puede dar su opinión sobre la experiencia con Miner Tienda
+- Preparación para mejora de analítica de tendencias en colaboración con Glassnode
+
 
 ### En pruebas
 - Mercado P2P Supervisado
