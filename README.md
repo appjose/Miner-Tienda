@@ -13,6 +13,7 @@ Se realizan talleres y comunicados de manera frecuente para informar a la comuni
 
 ## Últimos talleres realizados:
 https://www.youtube.com/watch?v=YuLDYT_tMhg
+https://www.youtube.com/watch?v=d9GQvsdBVoE
 
 #### URLs Oficiales:
 
