@@ -34,6 +34,8 @@ https://www.instagram.com/miner.tienda
 
 https://www.linkedin.com/company/miner-tienda
 
+https://twitter.com/MinerTienda
+
 
 ## Últimos cambios:
 
