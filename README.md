@@ -81,14 +81,22 @@ https://twitter.com/MinerTienda
 - Añadidas función de reseñas Trust Pilot, el cliente final ahora puede dar su opinión sobre la experiencia con Miner Tienda
 - Preparación para mejora de analítica de tendencias en colaboración con Glassnode
 
+### Versión beta 6
 
-### En pruebas
+- Integrar analítica de tendencias con métricas de Glassnode y consulta de gráficos interactivos
+
+
+### En pruebasç
+
+- Mejora de analñitica de tendencias
 - Mercado P2P Supervisado
 
 ### Nuevas Integraciones
 
 - Chat en vivo para visitantes de la Web
 - Dirección ENS minertienda.eth
+- Integrar analítica de tendencias con métricas de Glassnode y consulta de gráficos interactivos
+
 
 ### Pendiente:
 
