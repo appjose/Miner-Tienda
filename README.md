@@ -94,7 +94,7 @@ https://twitter.com/MinerTienda
 
 ### En pruebas
 
-- Mejora de analñitica de tendencias
+- Mejora de analítica de tendencias
 - Mercado P2P Supervisado
 
 ### Nuevas Integraciones
