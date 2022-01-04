@@ -86,6 +86,12 @@ https://twitter.com/MinerTienda
 - Integrar analítica de tendencias con métricas de Glassnode y consulta de gráficos interactivos
 - Añadir al menú la página de Analítica de Tendencias actualizada
 
+### Versión beta 7
+
+- Revisada lista de filtros fabricantes {Canaan Avalon, Bitmain Antminer, MicrobT Whatsminer, Jasminer, Innosilicon, Goldshell, IBeLink}
+- Revisión de referencias cruzadas
+- Añadir al menú la página de Analítica de Tendencias actualizada
+
 ### En pruebas
 
 - Mejora de analñitica de tendencias
