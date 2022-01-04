@@ -102,6 +102,21 @@ https://twitter.com/MinerTienda
 - Chat en vivo para visitantes de la Web
 - Dirección ENS minertienda.eth
 - Integrar analítica de tendencias con métricas de Glassnode y consulta de gráficos interactivos
+> Clave PGP De Cifrado Para Comunicarse con Miner Tienda (Generado con Kleopatra)
+>  -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+> mDMEYcOBGRYJKwYBBAHaRw8BAQdA5zu6iOtMZ407JD+jvs1l0OIqJ5H4OsMvg9oi
+> kFvdHK60IE1pbmVyVGllbmRhIDxhZG1pbkBtaW5lci50aWVuZGE+iJoEExYKAEIC
+> GwMFCwkIBwIDIgIBBhUKCQgLAgQWAgMBAh4HAheAFiEEQf3n2VZpCHO++3PJGpHG
+> 3JyaRP0FAmHTkuQFCQlnf9UACgkQGpHG3JyaRP3dXAD/ac2QRjz6pwRanRSPnFXU
+> Vgbacbg5nwXRzFlL6WF/VI0A/R9xIGkBy7uG9pP40EyhWUFhPOvtZXOrv3+FNgJT
+> Mj8HuDgEYcOBGRIKKwYBBAGXVQEFAQEHQNClCZXMogDOkrvp2Cr6hzJZaJ9x13Tw
+> 2yLnk7obKQ8KAwEIB4h+BBgWCgAmAhsMFiEEQf3n2VZpCHO++3PJGpHG3JyaRP0F
+> AmHTkukFCQlnf9oACgkQGpHG3JyaRP2sfQEAqnr4+DYPOoRuC2I7cOBJYqmT0WXe
+> Irt08m4qoetve/QA+wfR+OSsAcMr3f3bdkj9H1g3t51lWYQrSPOwYMUaZioD
+> =/voK
+> -----END PGP PUBLIC KEY BLOCK-----
+> 
 
 
 ### Pendiente:
