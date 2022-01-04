@@ -84,9 +84,9 @@ https://twitter.com/MinerTienda
 ### Versión beta 6
 
 - Integrar analítica de tendencias con métricas de Glassnode y consulta de gráficos interactivos
+- Añadir al menú la página de Analítica de Tendencias actualizada
 
-
-### En pruebasç
+### En pruebas
 
 - Mejora de analñitica de tendencias
 - Mercado P2P Supervisado
