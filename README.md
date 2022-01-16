@@ -97,6 +97,13 @@ https://twitter.com/MinerTienda
 - Mejora de analítica de tendencias
 - Mercado P2P Supervisado
 
+
+Contacto Email: 
+
+minertiendaoficial@gmail.com
+admin@miner.tienda
+clientes@miner.tienda
+
 ### Nuevas Integraciones
 
 - Chat en vivo para visitantes de la Web
