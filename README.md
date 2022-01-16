@@ -103,6 +103,7 @@ Contacto Email:
 minertiendaoficial@gmail.com
 admin@miner.tienda
 clientes@miner.tienda
+ventas@miner.tienda
 
 ### Nuevas Integraciones
 
